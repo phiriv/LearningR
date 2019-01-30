@@ -1,2 +1,2 @@
 # LearningR
-Exploring basic statistics using R
+Exploring basic statistics using R, with a focus on quantiative finance
